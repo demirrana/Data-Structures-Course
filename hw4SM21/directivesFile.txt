@@ -1,0 +1,20 @@
+insert A
+insert C
+insert ACGT
+display
+insert CAGT
+insert CAT
+display-lengths
+remove A
+remove CAT
+display-lengths
+remove TAC
+display-lengths
+insert TAC
+insert TACG
+display-lengths
+search ACGT
+search CAT
+search TAC
+search TAC$
+display
